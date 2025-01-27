@@ -5,4 +5,6 @@ test rep
 using namespace std;
 int main(){
 cout<<free palestine<<ensl;
+return 0;
+}
 
